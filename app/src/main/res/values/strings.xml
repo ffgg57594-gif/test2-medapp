@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مساعد التشخيص الطبي</string>
+    <string name="app_tagline">تحليل الصور الطبية بالذكاء الاصطناعي — حمّل النموذج مرة واحدة، ثم يعمل التحليل دون اتصال بالإنترنت</string>
+    <string name="browse_models">تصفح النماذج المتاحة</string>
+    <string name="select_model">اختر نموذج</string>
+    <string name="download_model">تحميل النموذج</string>
+    <string name="downloading_model">جاري التحميل…</string>
+    <string name="download_failed">فشل التحميل، حاول مرة أخرى</string>
+    <string name="downloaded_ready">تم التحميل ✓</string>
+    <string name="no_models_available">لا توجد نماذج مضافة بعد</string>
+    <string name="analyze_image">تحليل الصورة</string>
+    <string name="select_image">اختيار صورة</string>
+    <string name="take_photo">التقاط صورة</string>
+    <string name="choose_from_gallery">من المعرض</string>
+    <string name="analyze">تحليل</string>
+    <string name="selected_image">الصورة المختارة</string>
+    <string name="no_image_selected">لم يتم اختيار صورة بعد</string>
+    <string name="medical_disclaimer">⚠️ هذه الأداة للمساعدة فقط ولا تغني عن تقييم الطبيب المختص</string>
+    <string name="loading_model_progress">جاري تحميل النموذج… %1$d%%</string>
+    <string name="analyzing_in_progress">جاري التحليل…</string>
+    <string name="camera_permission_needed">يحتاج التطبيق إذن الكاميرا لالتقاط صورة</string>
+    <string name="footer_credit">تحياتنا لكم\nد. محمد عربي</string>
+</resources>

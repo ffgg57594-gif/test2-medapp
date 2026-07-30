@@ -1,0 +1,29 @@
+{
+  "id": "densenet121_chest_xray",
+  "display_name_ar": "تصنيف أشعة الصدر (TorchXRayVision DenseNet121 - NIH)",
+  "display_name_en": "Chest X-ray Classifier (TorchXRayVision DenseNet121 - NIH)",
+  "modality": "xray",
+  "task": "classification",
+  "description_ar": "نموذج DenseNet121 من مكتبة TorchXRayVision، مُدرَّب على NIH ChestX-ray8. يكشف عدة حالات بشكل مستقل عن بعضها (يمكن وجود أكثر من حالة في نفس الوقت). هذا النموذج أداة مساعدة فقط ولا يغني عن تقييم الطبيب المختص.",
+  "input_width": 224,
+  "input_height": 224,
+  "file_size_mb": 28,
+  "model_file_name": "model.onnx",
+  "multi_label": true,
+  "labels": [
+    "Atelectasis",
+    "Consolidation",
+    "Infiltration",
+    "Pneumothorax",
+    "Edema",
+    "Emphysema",
+    "Fibrosis",
+    "Effusion",
+    "Pneumonia",
+    "Pleural_Thickening",
+    "Cardiomegaly",
+    "Nodule",
+    "Mass",
+    "Hernia"
+  ]
+}
